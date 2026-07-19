@@ -1,0 +1,20 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Data and generated artifacts
+*.csv
+*.zip
+*.jsonl
+*.pt
+*.pth
+*.joblib
+*.pkl
+images/
+data/
+outputs/
