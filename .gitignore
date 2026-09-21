@@ -9,6 +9,7 @@ venv/
 
 # Data and generated artifacts
 *.csv
+!Homework_09_Time_Series_Forecasting/Metro_Interstate_Traffic_Volume.csv
 *.zip
 *.jsonl
 *.pt

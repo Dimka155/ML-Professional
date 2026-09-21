@@ -12,5 +12,6 @@
 | 6 | Сегментация облаков с помощью CNN | [ноутбук](Homework_06_Cloud_Segmentation/Homework_06.ipynb) · [описание](Homework_06_Cloud_Segmentation/README.md) |
 | 7 | Сбор товарного датасета и NLP-регрессия | [ноутбук](Homework_07_Web_Scraping_NLP/Homework_07.ipynb) · [описание](Homework_07_Web_Scraping_NLP/README.md) |
 | 8 | Трансформеры для классификации RuCoLA | [ноутбук](Homework_08_Transformers_RuCoLA/Homework_08.ipynb) · [описание](Homework_08_Transformers_RuCoLA/README.md) |
+| 9 | Прогнозирование временного ряда трафика | [ноутбук](Homework_09_Time_Series_Forecasting/Homework_09.ipynb) · [датасет](Homework_09_Time_Series_Forecasting/Metro_Interstate_Traffic_Volume.csv) · [описание](Homework_09_Time_Series_Forecasting/README.md) |
 
-Датасеты и крупные артефакты моделей не хранятся в репозитории. Источники данных и особенности запуска указаны в README соответствующих работ.
+Как правило, датасеты и крупные артефакты моделей не хранятся в репозитории. Исключение — компактный CSV для работы №9, добавленный вместе с ноутбуком для полностью воспроизводимого запуска. Источники данных и особенности запуска указаны в README соответствующих работ.
