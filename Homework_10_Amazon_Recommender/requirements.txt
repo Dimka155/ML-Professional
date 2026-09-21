@@ -1,0 +1,10 @@
+# Verified with Python 3.13.5. The notebook also targets Python 3.10+.
+numpy==2.1.3
+pandas==2.2.3
+scipy==1.15.3
+matplotlib==3.10.0
+threadpoolctl==3.5.0
+nbformat==5.10.4
+nbclient==0.10.2
+ipykernel==6.29.5
+jupyter==1.1.1
