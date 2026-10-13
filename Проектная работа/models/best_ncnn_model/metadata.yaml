@@ -1,0 +1,18 @@
+description: Ultralytics YOLOv8n-seg model trained on D:\Для конвейера\Детектор деталей\DETECTOR_V3\training\splits\v8_mixed\data.yaml
+author: Ultralytics
+date: '2026-10-04T14:31:44.043195'
+version: 8.3.189
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: segment
+batch: 1
+imgsz:
+- 256
+- 320
+names:
+  0: part
+args:
+  batch: 1
+  half: false
+channels: 3

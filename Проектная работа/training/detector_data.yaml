@@ -1,0 +1,10 @@
+# Датасет детектора: экспорт из Roboflow в формате YOLOv8, один класс — любая деталь на ленте
+path: ../dataset/
+
+train: train/images
+val:   valid/images
+test:  test/images
+
+nc: 1
+names:
+  - part
